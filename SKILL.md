@@ -1,10 +1,9 @@
 ---
 name: open-access-audit
-description: A skill for evaluating information systems for artificial scarcity and
-  proposing liberation strategies.
+description: A skill for evaluating information systems for artificial scarcity and proposing liberation strategies.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - open-access-audit
