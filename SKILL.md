@@ -3,8 +3,9 @@ name: open-access-audit
 description: A skill for evaluating information systems for artificial scarcity and proposing liberation strategies.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4611
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - open-access-audit
 - writing
