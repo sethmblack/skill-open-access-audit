@@ -4,7 +4,7 @@ description: A skill for evaluating information systems for artificial scarcity 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4611
+  version: 1.0.4612
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - open-access-audit
